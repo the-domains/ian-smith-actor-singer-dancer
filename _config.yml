@@ -1,14 +1,19 @@
-layout_spectrum: 0.8104997016489506
-typography_spectrum: 0.11030300962738693
+layout_spectrum: 0.7104529049247503
+typography_spectrum: 0.5712166987359524
 color:
   brandStrength: 0.7611937567126006
   lightness: 0.19034611736424267
   saturation: 0.0059902663342654705
   rhythmicContrast: 0.8978404239751399
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
 name: 'Ian Smith - Actor. Singer. Dancer. '
+navigation:
+  - id: www.iansmith.nyc
+    url: www.iansmith.nyc
+    name: Official Website
+    type: external
