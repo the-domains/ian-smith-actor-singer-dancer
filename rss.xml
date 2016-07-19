@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ian Smith - Actor. Singer. Dancer. ]]></title>
+        <description><![CDATA[Ian Smith - Actor. Singer. Dancer. ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jul 2016 19:22:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ian Smith - "Gorgeous" from The Apple Tree]]></title>
+            <description><![CDATA[<article><h1>Ian Smith - "Gorgeous" from The Apple Tree</h1><p>Ian Smith, Ithaca College Musical Theatre '18, singing "Gorgeous" from The Apple Tree by Sheldon Harnick and Jerry Bock during his final sophomore year rep class. Accompanist: Steven Caldicott Wilson www.iansmith.nyc</p></article>]]></description>
+            <link>https://youtu.be/96FNb9yodm4</link>
+            <guid isPermaLink="false">2b2fee3a-7b52-448a-a671-5aa7e00da3a4</guid>
+            <pubDate>Mon, 18 Jul 2016 19:22:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
